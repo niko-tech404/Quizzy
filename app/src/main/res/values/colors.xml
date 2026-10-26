@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+    <color name="black">#FF0F172A</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6366F1</color>
+    <color name="colorPrimaryDark">#F8FAFC</color>
+    <color name="colorAccent">#F59E0B</color>
+    <color name="colorText">#0F172A</color>
+    <color name="colorSubText">#64748B</color>
+    <color name="colorTrueButton">#059669</color>
+    <color name="colorFalseButton">#E11D48</color>
+    <color name="buttonTextColor">#FFFFFF</color>
 </resources>
